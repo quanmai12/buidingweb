@@ -1,4 +1,9 @@
 button{
-    width: 50px;
+    border-radius: 1px;
+    width: 100px;
+    
+}
+a{
+    text-decoration: none;
     
 }
